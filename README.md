@@ -7,6 +7,7 @@
   - [Создание динамической библиотеки][4]
   - [Run-time компоновка][5]
   - [Разбор аргументов командной строки][6]
+      - [Передача длинных опций в программу - getopt_long][7]
 
    [0]: <https://github.com/fedorch/stepic-548>
    [1]: <https://github.com/devtype-blogspot-com/Linux-Sample-Code/tree/master/helloworld>
@@ -15,3 +16,4 @@
    [4]: <https://github.com/devtype-blogspot-com/Linux-Sample-Code/tree/master/libsolution>
    [5]: <https://github.com/devtype-blogspot-com/Linux-Sample-Code/tree/master/libShared>
    [6]: <https://github.com/devtype-blogspot-com/Linux-Sample-Code/tree/master/valid_args>
+   [7]: <http://www.firststeps.ru/linux/r.php?11>
