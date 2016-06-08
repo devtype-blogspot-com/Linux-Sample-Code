@@ -14,7 +14,9 @@
       - [C program to read all the processes status from /proc][11]
       - [Finding process count in Linux via command line][12]
   - [Поиск пути к init по заданному pid][13]
-  
+  - [Подсчет процессов в поддереве][14]
+      - [How to find all child processes?][15]
+      
    [0]: <https://github.com/fedorch/stepic-548>
    [1]: <https://github.com/devtype-blogspot-com/Linux-Sample-Code/tree/master/helloworld>
    [2]: <https://github.com/devtype-blogspot-com/Linux-Sample-Code/tree/master/helloworld-lib>
@@ -29,3 +31,6 @@
    [11]: <http://stackoverflow.com/a/29992237/2289640>
    [12]: <http://stackoverflow.com/a/3058161/2289640>
    [13]: <https://github.com/devtype-blogspot-com/Linux-Sample-Code/tree/master/path_to_init>
+   [14]: <https://github.com/devtype-blogspot-com/Linux-Sample-Code/tree/master/child_process_count>
+   [15]: <http://stackoverflow.com/questions/1009552/how-to-find-all-child-processes>   
+   
