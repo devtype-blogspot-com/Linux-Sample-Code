@@ -16,6 +16,8 @@
   - [Поиск пути к init по заданному pid][13]
   - [Подсчет процессов в поддереве][14]
       - [How to find all child processes?][15]
+  - [Создание демона][16]
+      - [Creating a daemon in Linux?][17]
       
    [0]: <https://github.com/fedorch/stepic-548>
    [1]: <https://github.com/devtype-blogspot-com/Linux-Sample-Code/tree/master/helloworld>
@@ -33,4 +35,6 @@
    [13]: <https://github.com/devtype-blogspot-com/Linux-Sample-Code/tree/master/path_to_init>
    [14]: <https://github.com/devtype-blogspot-com/Linux-Sample-Code/tree/master/child_process_count>
    [15]: <http://stackoverflow.com/questions/1009552/how-to-find-all-child-processes>   
+   [16]: <https://github.com/devtype-blogspot-com/Linux-Sample-Code/tree/master/daemon>
+   [17]: <http://stackoverflow.com/a/17955149/2289640>   
    
