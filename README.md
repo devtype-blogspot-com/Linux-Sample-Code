@@ -1,6 +1,7 @@
 # Примеры программ для операционной системы Linux
 
-  - [Краткий конспект курса "Основы программирования для Linux"][start]
+  - [Angrave's crowd-sourced System Programming wiki-book][illinois]
+  - [Краткий конспект курса "Основы программирования для Linux"][stepic]
   - [Еще один краткий конспект курса "Основы программирования для Linux"][0]
   - [Основной инструментарий разработчика Linux][1]
   - [Динамические библиотеки и линковка][2]
@@ -24,8 +25,11 @@
       - [Capture the output of a child process in C][20]
       - [Processes hang on read][21]
       - [C - How to see if a pipe is empty][22]
-      
-   [start]: <http://devtype.blogspot.com/2016/05/Osnovy-programmirovanija-dlja-Linux.html>
+  - [Мультиплексированный ввод][23]
+      - [C using select() to read from two named pipes (FIFO)][24]
+   
+   [illinois]: <https://github.com/angrave/SystemProgramming/wiki>
+   [stepic]: <http://devtype.blogspot.com/2016/05/Osnovy-programmirovanija-dlja-Linux.html>
    [0]: <https://github.com/fedorch/stepic-548>
    [1]: <https://github.com/devtype-blogspot-com/Linux-Sample-Code/tree/master/helloworld>
    [2]: <https://github.com/devtype-blogspot-com/Linux-Sample-Code/tree/master/helloworld-lib>
@@ -49,3 +53,5 @@
    [20]: <http://www.microhowto.info/howto/capture_the_output_of_a_child_process_in_c.html>
    [21]: <http://stackoverflow.com/questions/8130922/processes-hang-on-read>
    [22]: <http://stackoverflow.com/questions/13811614/c-how-to-see-if-a-pipe-is-empty>
+   [23]: <https://github.com/devtype-blogspot-com/Linux-Sample-Code/tree/master/pipe_select>
+   [24]: <http://stackoverflow.com/a/28519306>
