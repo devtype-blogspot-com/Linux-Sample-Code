@@ -27,7 +27,8 @@
       - [C - How to see if a pipe is empty][22]
   - [Мультиплексированный ввод][23]
       - [C using select() to read from two named pipes (FIFO)][24]
-   
+  - [Подсчет сигналов][25]
+  
    [illinois]: <https://github.com/angrave/SystemProgramming/wiki>
    [stepic]: <http://devtype.blogspot.com/2016/05/Osnovy-programmirovanija-dlja-Linux.html>
    [0]: <https://github.com/fedorch/stepic-548>
@@ -55,3 +56,4 @@
    [22]: <http://stackoverflow.com/questions/13811614/c-how-to-see-if-a-pipe-is-empty>
    [23]: <https://github.com/devtype-blogspot-com/Linux-Sample-Code/tree/master/pipe_select>
    [24]: <http://stackoverflow.com/a/28519306>
+   [25]: <https://github.com/devtype-blogspot-com/Linux-Sample-Code/tree/master/signal_cnt>
