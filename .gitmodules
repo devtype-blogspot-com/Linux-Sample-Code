@@ -1,3 +1,6 @@
 [submodule "stepic-548"]
 	path = stepic-548
 	url = https://github.com/fedorch/stepic-548
+[submodule "SystemProgramming.wiki"]
+	path = SystemProgramming.wiki
+	url = https://github.com/angrave/SystemProgramming.wiki.git
