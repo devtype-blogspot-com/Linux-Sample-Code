@@ -28,6 +28,7 @@
   - [Мультиплексированный ввод][23]
       - [C using select() to read from two named pipes (FIFO)][24]
   - [Подсчет сигналов][25]
+  - ["Правильный" демон][26]
   
    [illinois]: <https://github.com/angrave/SystemProgramming/wiki>
    [stepic]: <http://devtype.blogspot.com/2016/05/Osnovy-programmirovanija-dlja-Linux.html>
@@ -57,3 +58,4 @@
    [23]: <https://github.com/devtype-blogspot-com/Linux-Sample-Code/tree/master/pipe_select>
    [24]: <http://stackoverflow.com/a/28519306>
    [25]: <https://github.com/devtype-blogspot-com/Linux-Sample-Code/tree/master/signal_cnt>
+   [26]: <https://github.com/devtype-blogspot-com/Linux-Sample-Code/tree/master/true_daemon>
