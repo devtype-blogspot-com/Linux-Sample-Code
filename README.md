@@ -19,7 +19,12 @@
       - [How to find all child processes?][15]
   - [Создание демона][16]
       - [Creating a daemon in Linux?][17]
-
+  - [Чтение консольного вывода][18]
+      - [c program (linux): get command line output to a variable and filter data?][19]
+      - [Capture the output of a child process in C][20]
+      - [Processes hang on read][21]
+      - [C - How to see if a pipe is empty][22]
+      
    [start]: <http://devtype.blogspot.com/2016/05/Osnovy-programmirovanija-dlja-Linux.html>
    [0]: <https://github.com/fedorch/stepic-548>
    [1]: <https://github.com/devtype-blogspot-com/Linux-Sample-Code/tree/master/helloworld>
@@ -39,4 +44,8 @@
    [15]: <http://stackoverflow.com/questions/1009552/how-to-find-all-child-processes>   
    [16]: <https://github.com/devtype-blogspot-com/Linux-Sample-Code/tree/master/daemon>
    [17]: <http://stackoverflow.com/a/17955149/2289640>   
-   
+   [18]: <https://github.com/devtype-blogspot-com/Linux-Sample-Code/tree/master/pipe_count_zeros>
+   [19]: <http://stackoverflow.com/a/12007516>
+   [20]: <http://www.microhowto.info/howto/capture_the_output_of_a_child_process_in_c.html>
+   [21]: <http://stackoverflow.com/questions/8130922/processes-hang-on-read>
+   [22]: <http://stackoverflow.com/questions/13811614/c-how-to-see-if-a-pipe-is-empty>
