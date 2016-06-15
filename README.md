@@ -29,7 +29,13 @@
       - [C using select() to read from two named pipes (FIFO)][24]
   - [Подсчет сигналов][25]
   - ["Правильный" демон][26]
-  
+  - [Разделяемая память][27]
+      - [Shared Memory Segments][28]
+      - [how to use shared memory to communicate between two processes][29]
+      - [Разделяемая память в UNIX. Системные вызовы shmget(), shmat(), shmdt()][30]
+      - [How to use shared memory with Linux in C][31]
+      - [Gemeinsamer Speicher: Shared Memory][32]
+      
    [illinois]: <https://github.com/angrave/SystemProgramming/wiki>
    [stepic]: <http://devtype.blogspot.com/2016/05/Osnovy-programmirovanija-dlja-Linux.html>
    [0]: <https://github.com/fedorch/stepic-548>
@@ -59,3 +65,10 @@
    [24]: <http://stackoverflow.com/a/28519306>
    [25]: <https://github.com/devtype-blogspot-com/Linux-Sample-Code/tree/master/signal_cnt>
    [26]: <https://github.com/devtype-blogspot-com/Linux-Sample-Code/tree/master/true_daemon>
+   [27]: <https://github.com/devtype-blogspot-com/Linux-Sample-Code/tree/master/shared_memory>
+   [28]: <https://beej.us/guide/bgipc/output/html/multipage/shm.html>
+   [29]: <http://stackoverflow.com/a/28209301>
+   [30]: <http://www.intuit.ru/studies/courses/2249/52/lecture/1556?page=2>
+   [31]: <http://stackoverflow.com/questions/5656530/how-to-use-shared-memory-with-linux-in-c>
+   [32]: <http://openbook.rheinwerk-verlag.de/unix_guru/node393.html>
+   
