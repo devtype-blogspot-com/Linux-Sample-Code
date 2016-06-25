@@ -35,7 +35,8 @@
       - [Разделяемая память в UNIX. Системные вызовы shmget(), shmat(), shmdt()][30]
       - [How to use shared memory with Linux in C][31]
       - [Gemeinsamer Speicher: Shared Memory][32]
-      
+  - [Host resolver][33]
+  
    [illinois]: <https://github.com/angrave/SystemProgramming/wiki>
    [stepic]: <http://devtype.blogspot.com/2016/05/Osnovy-programmirovanija-dlja-Linux.html>
    [0]: <https://github.com/fedorch/stepic-548>
@@ -71,4 +72,5 @@
    [30]: <http://www.intuit.ru/studies/courses/2249/52/lecture/1556?page=2>
    [31]: <http://stackoverflow.com/questions/5656530/how-to-use-shared-memory-with-linux-in-c>
    [32]: <http://openbook.rheinwerk-verlag.de/unix_guru/node393.html>
+   [33]: <https://github.com/devtype-blogspot-com/Linux-Sample-Code/tree/master/host_resolver>
    
